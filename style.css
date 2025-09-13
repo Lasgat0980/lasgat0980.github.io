@@ -1,1 +1,30 @@
+html {
+  background-color: green;
+  font-family: arial;
+}
+header{
+  text-align: center;
+  font-size: 1em;
+  font-weight: bold;
+  padding: 10px;
+  background-color: blue;
+}
+.nav-list {
+  display: flex;
+  list-style-type: none;
+}
+.nav-list a:hover {
+  background-color: white;
+}
+main {
+  padding: 20px;
+  margin: 30px;
+  border-style: dashed
+}
+footer {
+  font-size: 
+  text-align: center;
+  color: contrast-color;
+}
+
 

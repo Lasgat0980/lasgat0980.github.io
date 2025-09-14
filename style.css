@@ -9,12 +9,16 @@ header{
   padding: 10px;
   background-color: darksalmon;
 }
+.navbar{
+  display: flex;
+  list-style-type: none;
+}
 .nav-list {
   display: flex;
   list-style-type: none;
 }
 .nav-list a:hover {
-  background-color: white;
+  color: white;
 }
 main {
   padding: 20px;

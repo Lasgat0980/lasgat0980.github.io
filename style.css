@@ -13,12 +13,12 @@ header{
   display: flex;
   padding: 0 15px;
 }
-.nav-menue {
+.nav-menu {
   display: flex;
   list-style-type: none;
 }
-.nav-list a:hover {
-  color: white;
+.nav-menu a:hover {
+  background-color: white;
 }
 main {
   padding: 20px;

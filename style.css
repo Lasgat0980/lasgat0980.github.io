@@ -1,5 +1,5 @@
 html {
-  background-color: darkgreen;
+  background-color: darkgray;
   font-family: arial;
 }
 header{
@@ -7,7 +7,7 @@ header{
   font-size: medium;
   font-weight: bold;
   padding: 10px;
-  background-color: darkgray;
+  background-color: darksalmon;
 }
 .nav-list {
   display: flex;

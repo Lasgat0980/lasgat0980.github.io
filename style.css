@@ -18,7 +18,7 @@ header{
   list-style-type: none;
 }
 .nav-menu a:hover {
-  background-color: white;
+  color: white;
 }
 main {
   padding: 20px;

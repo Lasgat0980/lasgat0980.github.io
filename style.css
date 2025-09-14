@@ -4,7 +4,7 @@ html {
 }
 header{
   text-align: center;
-  font-size: 1em;
+  font-size: medium;
   font-weight: bold;
   padding: 10px;
   background-color: darkgray;
@@ -22,7 +22,7 @@ main {
   border-style: dashed
 }
 footer {
-  font-size: 
+  font-size: small;
   text-align: center;
   background-color: white;
   color: black;

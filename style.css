@@ -1,5 +1,5 @@
 html {
-  background-color: black;
+  background-color: darkgreen;
   font-family: arial;
 }
 header{
@@ -7,7 +7,7 @@ header{
   font-size: 1em;
   font-weight: bold;
   padding: 10px;
-  background-color: maroon;
+  background-color: darkgray;
 }
 .nav-list {
   display: flex;
@@ -24,7 +24,8 @@ main {
 footer {
   font-size: 
   text-align: center;
-  color: contrast-color;
+  background-color: white;
+  color: black;
 }
 
 

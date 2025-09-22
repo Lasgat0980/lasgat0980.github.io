@@ -1,13 +1,14 @@
-html {
+body {
   background-color: darkgray;
-  font-family: arial;
+  font-family: arial, sans-serif;
 }
 header{
   text-align: center;
-  font-size: medium;
+  font-size: 2.5rem;
   font-weight: bold;
-  padding: 10px;
+  padding: 1rem;
   background-color: darksalmon;
+  color:white;
 }
 .navbar{
   display: flex;
@@ -16,14 +17,32 @@ header{
 .nav-menu {
   display: flex;
   list-style-type: none;
+  padding:0;
+  margin: 0;
+  justify-content: center;
+  gap: 1rem;
 }
 .nav-menu a:hover {
   color: white;
+  background-color: Dark Blue;
+}
+section {
+  transition: transform 0.3s ease;
+}
+section:hover {
+  transform: scale(1.02);
 }
 main {
-  padding: 20px;
-  margin: 30px;
+  padding: 2rem;
+  margin: 1rem;
   border-style: dashed
+}
+main section {
+  margin-bottom: 1rem;
+  padding: 1rem;
+  background-color: #f0fff0;
+  border: 1px solid #d3d3d3;
+  box-shadow: 5px 5px 10px light grey; 
 }
 footer {
   font-size: small;
@@ -31,5 +50,42 @@ footer {
   background-color: darksalmon;
   color: black;
 }
-
+body {
+  font-family: Arial, sans-serif;
+  margin: 0;
+  padding: 0;
+}
+#projects {
+  padding: 20px; 
+  background-color: white;
+}
+#projects table {
+  width: 100%;
+  margin:20px 0;
+}
+#projects table thead th {
+  background-color:grey;
+  color:white;
+  text-align:left;
+  padding: 10px;
+}
+#projects table caption {
+  font-size: 1.5em;
+  font-weight:bold;
+  margin-bottom: 10px;
+}
+#projects table tbody td {
+  text-align: left;
+  padding: 8px;
+  border: 1px solid charcoal gray;
+}
+#projects table tfoot td {
+  text-align: left;
+  padding: 8px;
+  border: 1px solid charcoal gray;
+}
+#projects table colgroup col:nth-child(1), #projects table colgroup col:nth-chil(3) {
+  background-color:mint;
+}
+}
 

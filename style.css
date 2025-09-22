@@ -65,7 +65,7 @@ body {
 }
 #projects table thead th {
   background-color:grey;
-  color:white;
+  color:dark gray;
   text-align:left;
   padding: 10px;
 }
@@ -84,8 +84,7 @@ body {
   padding: 8px;
   border: 1px solid charcoal gray;
 }
-#projects table colgroup col:nth-child(1), #projects table colgroup col:nth-chil(3) {
+#projects table colgroup col:nth-child(1), #projects table colgroup col:nth-child(3) {
   background-color:mint;
-}
 }
 

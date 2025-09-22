@@ -23,8 +23,8 @@ header{
   gap: 1rem;
 }
 .nav-menu a:hover {
-  color: white;
-  background-color: Dark Blue;
+  color: darksalmon;
+  background-color: darkblue;
 }
 section {
   transition: transform 0.3s ease;
@@ -39,10 +39,10 @@ main {
 }
 main section {
   margin-bottom: 1rem;
+  border: 1px solid #d3d3d3;
   padding: 1rem;
   background-color: #f0fff0;
-  border: 1px solid #d3d3d3;
-  box-shadow: 5px 5px 10px light grey; 
+  box-shadow: 5px 5px 10px darkgrey; 
 }
 footer {
   font-size: small;
@@ -57,7 +57,7 @@ body {
 }
 #projects {
   padding: 20px; 
-  background-color: white;
+  background-color: darksalmon;
 }
 #projects table {
   width: 100%;
@@ -77,12 +77,12 @@ body {
 #projects table tbody td {
   text-align: left;
   padding: 8px;
-  border: 1px solid charcoal gray;
+  border: 1px solid charcoalgray;
 }
 #projects table tfoot td {
   text-align: left;
   padding: 8px;
-  border: 1px solid charcoal gray;
+  border: 1px solid charcoalgray;
 }
 #projects table colgroup col:nth-child(1), #projects table colgroup col:nth-child(3) {
   background-color:mint;

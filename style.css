@@ -87,4 +87,50 @@ body {
 #projects table colgroup col:nth-child(1), #projects table colgroup col:nth-child(3) {
   background-color:mint;
 }
-
+#contact {
+  display: flex; 
+  flex-direction: column;
+  gap: 10px;
+  padding: 20px;
+  background-color: white;
+  border: 1px; solid #ddd;
+  border-radius: 5px;
+}
+form {
+  display:flex; 
+  flex-direction: column;
+  gap: 10px;
+}
+label {
+  margin-bottom: 5px;
+}
+input, textarea {
+  transition: border-color 0.3s ease;
+  border: 1px solid lightgray; 
+  border-radius: 5px;
+}
+input:focus, textarea:focus {
+  border-color: navyblue; 
+  outline: none;
+}
+button {
+  padding: 10px 20px; 
+  transition: background-color 0.3s ease;
+  cursor: pointer;
+  color: white;
+  border: none; 
+  border-radius: 5px;
+}
+button:hover {
+  background-color: navyblue;
+}
+button:focus {
+  background-color:navyblue;
+}
+@media (min-width: 768px) 
+{#contact {
+  width:70%;
+  margin: 0 auto;
+}}
+@media (min-width: 1024px)
+{ #contact {width: 50%;}}

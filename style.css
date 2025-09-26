@@ -106,8 +106,9 @@ label {
 }
 input, textarea {
   transition: border-color 0.3s ease;
-  border: 1px solid lightgray; 
+  border: 1px solid darkgray; 
   border-radius: 5px;
+  
 }
 input:focus, textarea:focus {
   border-color: navyblue; 
@@ -117,7 +118,7 @@ button {
   padding: 10px 20px; 
   transition: background-color 0.3s ease;
   cursor: pointer;
-  color: white;
+  color: black;
   border: none; 
   border-radius: 5px;
 }

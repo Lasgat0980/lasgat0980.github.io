@@ -21,12 +21,12 @@ This project was intended to allow us to show our understanding of all the lesso
 -CSS3
 
 ##Installation
-1.Clone the repository
+1.Clone the repository https://lasgat0980.github.io/
 2.Navigate to the project directory
 3.Open 'index.html' in your browser
 
 ##Usage
-The website is self explanatory for the most part. There is 
+The website has a simple setup. There are hyperlinks that you can choose from to see past projects, an about section that explains more about the page, and a contact section for user to reach out to me or have me contact them. 
 
 ##Contact
 Lastazia Dickens- lasgat0980@students.ecpi.com

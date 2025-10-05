@@ -1,3 +1,34 @@
 # lasgat0980.github.io
-![OIP](https://github.com/user-attachments/assets/6a79aefc-0826-4b13-bc66-7c0a417088a8)
-![OIP](https://github.com/user-attachments/assets/ec6d6ed1-92f1-4ac8-a285-3ef2e5255630)
+My project is a webpage used to help reinforce key web developement concepts that we learned in class
+## Table of Contents
+1. [Introduction](#Introduction)
+2. [Features](#features)
+3. [Technologies Used](#technologies-used)
+4. [Installation](#installation)
+5. [Usage](#usage)
+6. [Contact](#contact)
+
+## Introduction
+This project was intended to allow us to show our understanding of all the lessons we had over the past 5 weeks. It allowed the class to build and deploy a real website.
+
+##Features
+-User-Friendly interface
+-Responsive design
+-visually appealing
+
+##Technologies Used
+-HTML5
+-CSS3
+
+##Installation
+1.Clone the repository
+2.Navigate to the project directory
+3.Open 'index.html' in your browser
+
+##Usage
+The website is self explanatory for the most part. There is 
+
+##Contact
+Lastazia Dickens- lasgat0980@students.ecpi.com
+
+
